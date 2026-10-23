@@ -159,7 +159,7 @@ El proyecto genera tres archivos gráficos para facilitar la interpretación de 
 
 ### Figura 1. Resumen del proceso de limpieza
 
-`fig1_resumen_limpieza.png`
+![Resumen del proceso de limpieza](imagenes/fig1_resumen_limpieza.png)
 
 Incluye dos gráficos:
 
@@ -170,7 +170,7 @@ Permite visualizar cuánto cambia el conjunto de datos durante el proceso.
 
 ### Figura 2. Distribución antes y después de la limpieza
 
-`fig2_distribuciones_antes_despues.png`
+![Distribución antes y después de la limpieza](imagenes/fig2_distribuciones_antes_despues.png)
 
 Compara las distribuciones de cantidades, precios unitarios y totales antes y después de la limpieza.
 
@@ -180,7 +180,7 @@ Esta comparación ayuda a identificar cómo afectan las transformaciones y elimi
 
 ### Figura 3. Análisis de productos y ventas diarias
 
-`fig3_productos_y_ventas_diarias.png`
+![Análisis de productos y ventas diarias](imagenes/fig3_productos_y_ventas_diarias.png)
 
 Contiene dos visualizaciones:
 
