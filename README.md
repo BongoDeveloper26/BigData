@@ -1,4 +1,4 @@
-# IA y Big Data — Proyectos y prácticas
+# Big Data — Proyectos y prácticas
 
 ## Sobre este repositorio
 
